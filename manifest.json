@@ -1,0 +1,9 @@
+{
+  "name": "KPSS Tarih Soru Çöz",
+  "short_name": "KPSS Tarih",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "lang": "tr"
+}
